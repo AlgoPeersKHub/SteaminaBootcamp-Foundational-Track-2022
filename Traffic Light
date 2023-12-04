@@ -32,7 +32,7 @@ Please note that the timer for light changes in this simulation does not adhere 
 """
 
 
-# Program ...
+# Project Code / Program ...
 
 def on_forever(): # Define a function called on_forever
     pins.digital_write_pin(DigitalPin.P0, 1)   # Turn on the red light (P0)

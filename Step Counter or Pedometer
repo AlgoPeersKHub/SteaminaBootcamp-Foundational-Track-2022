@@ -36,8 +36,8 @@ You'll explore the accelerometer sensor, buttons, and LEDs while applying progra
 
 
 
-# Program ... 
 
+# Project Code / Program ...
 
 steps = 0  # Initialize a variable to count steps
 

@@ -6,8 +6,25 @@ These resources are meticulously curated to empower you in kickstarting your exp
 
 You'll delve into the micro:bit's components and how to code through interesting projects.
 
-# Content 
+#  Content Outline
 
-Show How You Feel
+Introduction
+  Quick overview of the micro:bit project.
 
-Flash How You Feel
+
+Key Micro:bit Parts Used in the Project
+   Understanding the key parts of the micro:bit.
+
+
+Programming Basics
+  Understanding the essential programming concepts for micro:bit projects.
+
+
+Programming Language
+  Identifying the programming language employed in the project.
+
+
+Coding environment and text editor.
+   Understanding the tools and environment used for writing code.
+
+Project Code / Program

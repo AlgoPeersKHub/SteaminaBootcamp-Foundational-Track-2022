@@ -8,29 +8,29 @@ You'll delve into the micro:bit's components and how to code through interesting
 
 #  Content Outline
 
-Introduction
+### Introduction
   
-  Quick overview of the micro:bit project.
+  - Quick overview of the micro:bit project.
 
 
-Key Micro:bit Parts Used in the Project
+###Key Micro:bit Parts Used in the Project
    
-   nderstanding the key parts of the micro:bit.
+   - Understanding the key parts of the micro:bit.
 
 
-Programming Basics
+### Programming Basics
   
-  Understanding the essential programming concepts for micro:bit projects.
+  - Understanding the essential programming concepts for micro:bit projects.
 
 
-Programming Language
+### Programming Language
   
-  Identifying the programming language employed in the project.
+  - Identifying the programming language employed in the project.
 
 
-Coding environment and text editor.
+### Coding environment and text editor.
    
-   Understanding the tools and environment used for writing code.
+   - Understanding the tools and environment used for writing code.
 
 
-Project Code / Program
+### Project Code / Program

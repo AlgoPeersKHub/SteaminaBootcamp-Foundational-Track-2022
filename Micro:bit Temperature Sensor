@@ -35,7 +35,8 @@ This project allows you to do just that! You'll explore the temperature sensor, 
 """
 
 
-# Program ....
+
+# Project Code / Program ...
 
 def on_button_pressed_ab():   # Define a function to display the temperature when both buttons A and B are pressed
     basic.show_number(input.temperature())

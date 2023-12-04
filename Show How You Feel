@@ -1,33 +1,3 @@
-How does it feel when you are able to express your emotions using emojis when chattting with your friends?
-
-How would you feel if you are able to create emojis yourself?
-
-In this project you  will learn how write a program to show  how you feel on your micro:bit.
-
-
-Programming Language 
-
-     Microsoft Makecode Python
-
-Coding environment / Text editor
-
-     https://makecode.microbit.org/#editor
-
-
-Parts of the micro:bit
-
-       The part of the micro:bit used in this projet is the LEDs(Light Emitting Diode). It shows or displays how we feel.
-
-
-Programming concepts
-
-       Function: A function is a reusable block of code that performs a specific task or a set of tasks.
-
-       In the program below, a forever function makes your emoji loop or repeat over and over again
-
-
-Code / Program
-
 def on_forever():
     basic.show_leds("""
         . # . # .

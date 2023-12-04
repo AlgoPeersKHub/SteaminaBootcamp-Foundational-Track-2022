@@ -18,11 +18,11 @@ You'll delve into the micro:bit's components and how to code through interesting
 - Understanding the essential programming concepts for micro:bit projects.
 
 ### Programming Language
-- Identifying the programming language employed in the project.
+- Identifying the programming language used in the project.
 
 ### Coding Environment and Text Editor
-- Understanding the tools and environment used for writing code.
+- Know the tools and environment used for writing code.
 
 ### Project Code / Program
-- Actual code that powers the micro:bit project.
+-   Access the project code or program
 

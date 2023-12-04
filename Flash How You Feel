@@ -1,14 +1,21 @@
 """
-**Notes**
+Notes
 
-The program below flash or animate your emotions(emojis) on the micro:bit.
+The aim of this project is to flash or animate your emotions (designed emojis) on the micro:bit.
 
 
-**Programming concepts**
+Parts of the micro:bit used
 
-  ** Function **:  A function is a reusable block of code that performs a specific task or a set of tasks. Example: Line 1
+  Accelerometer Sensor: Detects micro:bit shakes to express your emotions.
+   
+  LEDs: Output that visually displays your emotions on the micro:bit.
 
-   **Loop **:  Loops help computers do things repeatedly or over and over again. Example Line 3
+
+Programming concepts
+
+  Function:  A function is a reusable block of code that performs a specific task or a set of tasks. Example: Line 1
+
+   Loop :  Loops help computers do things repeatedly or over and over again. Example Line 3
 
           There are differnt types of loops the one used in the above program is called **for loop**. 
           

@@ -4,7 +4,7 @@
 
 Ever wondered how you could visualize the temperature using your micro:bit? 
 
-This project allows you to do just that! You'll explore the temperature sensor, buttons, and LEDs using the micro:bit.
+This project allows you to do just that! You'll explore the temperature sensor, buttons, and LEDs of the micro:bit.
 
 
 
@@ -17,7 +17,7 @@ This project allows you to do just that! You'll explore the temperature sensor, 
 
 ## Programming Concepts
 
- **Function:** A reusable block of code that performs a specific task. In this project, functions will be employed to enhance code organization and readability.
+ **Function:** A reusable block of code that performs a specific task.Exampe: Line 38
 
 
 ## Programming Language

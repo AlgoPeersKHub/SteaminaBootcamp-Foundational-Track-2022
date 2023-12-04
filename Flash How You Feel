@@ -1,7 +1,7 @@
 """
 Notes
 
-The aim of this project is to flash or animate your emotions (designed emojis) on the micro:bit.
+The objective of this project is to bring your emotions to life by creating animated emojis that flash on the micro:bit.
 
 
 Parts of the micro:bit used
@@ -30,7 +30,7 @@ Text Editor / Coding Environment
       [Microsoft Makecode for Micro:bit](https://makecode.microbit.org/#editor)
 
 
-** Feel free to comment or add you thoughts**
+** Feel free to comment or contribute**
 """
 
 

@@ -33,7 +33,8 @@ In this project, you'll learn how to write a program to display your feelings on
 """
 
 
-#Program ...
+
+# Project Code / Program ...
 
 def on_button_pressed_a():
     basic.show_leds("""

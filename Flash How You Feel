@@ -1,5 +1,5 @@
 """
-Notes
+## Introduction
 
 The objective of this project is to bring your emotions to life by creating animated emojis that flash on the micro:bit.
 
@@ -34,7 +34,8 @@ Text Editor / Coding Environment
 """
 
 
-# Program...
+
+# Project Code / Program ...
 
 
 def on_gesture_shake():  # Display a sequence of icons when the micro:bit is shaken

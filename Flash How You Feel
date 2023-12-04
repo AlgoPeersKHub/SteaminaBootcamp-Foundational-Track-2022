@@ -13,16 +13,24 @@ Parts of the micro:bit used
 
 Programming concepts
 
-  Function:  A function is a reusable block of code that performs a specific task or a set of tasks. Example: Line 1
+  Function:  A function is a reusable block of code that performs a specific task or a set of tasks. Example: Line 40
 
-   Loop :  Loops help computers do things repeatedly or over and over again. Example Line 3
+   Loop :  Loops help computers do things repeatedly or over and over again. Example Line 42
 
           There are differnt types of loops the one used in the above program is called **for loop**. 
           
           **For Loop: It's like telling the micro:bit, "Display how I feel four(4) times.**
 
 
- ** Feel free to comment or add you thoughts**
+Programming Language
+       Python
+
+
+Text Editor / Coding Environment
+      [Microsoft Makecode for Micro:bit](https://makecode.microbit.org/#editor)
+
+
+** Feel free to comment or add you thoughts**
 """
 
 

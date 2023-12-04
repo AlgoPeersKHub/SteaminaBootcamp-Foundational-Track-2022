@@ -7,5 +7,7 @@ These resources are meticulously curated to empower you in kickstarting your exp
 You'll delve into the micro:bit's components and how to code through interesting projects.
 
 # Content 
+
 Show How You Feel
+
 Flash How You Feel

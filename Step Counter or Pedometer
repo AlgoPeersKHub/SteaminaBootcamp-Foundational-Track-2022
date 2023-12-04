@@ -36,14 +36,13 @@ You'll explore the accelerometer sensor, buttons, and LEDs while applying progra
 # Program ... 
 
 
-# Initialize a variable to count steps
-steps = 0
+steps = 0  # Initialize a variable to count steps
 
-# Define a function to increment the step count and display it when the micro:bit is shaken
-def on_gesture_shake():
+
+def on_gesture_shake(): # Define a function to increment the step count and display it when the micro:bit is shaken
     global steps
     steps += 1
     basic.show_number(steps)
 
-# Set up an event handler for the shake gesture
-input.on_gesture(Gesture.SHAKE, on_gesture_shake)
+
+input.on_gesture(Gesture.SHAKE, on_gesture_shake) # An event handler for the shake gesture

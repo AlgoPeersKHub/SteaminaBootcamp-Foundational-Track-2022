@@ -30,7 +30,7 @@ The programming concepts involved include functions, loops, and conditional stat
 """
 
 
-# Program ... 
+# Project Code / Program ...
 
 def on_forever():  # Define a function called on_forever
    

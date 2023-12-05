@@ -1,9 +1,9 @@
 # Foundational-Track
 The Foundational Track is a comprehensive compilation of resources, featuring code snippets tailored to facilitate your **introduction to the micro:bit.**
 
-These resources are meticulously curated to empower you in kickstarting your exploration, allowing you to prototype solutions.
+These resources are meticulously curated to empower you in kickstarting your exploration, allowing you to prototype solutions and building fun projects.
 
-**You'll delve into the micro:bit's components and how to code through interesting projects.**
+**You'll delve into the micro:bit and how to code through interesting projects.**
 ![Serwaa 4](https://github.com/AlgoPeersKHub/Foundational-Track/assets/150908294/b117336a-dcd7-4e87-a577-861d8c1202c3)
 
 

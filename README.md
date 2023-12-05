@@ -1,5 +1,5 @@
 # Foundational-Track
-The Foundational Track is a comprehensive compilation of resources, featuring code snippets tailored to facilitate your **introduction to the micro:bit.**
+The Foundational Track is a comprehensive compilation of resources, featuring code snippets tailored to facilitate your **introduction to the micro:bit.** (A micro:bit is a  programmable computer designed to provide an engaging and enjoyable way to learn coding,build prototypes as well as grasp the fundamentals of hardware and software.)
 
 These resources are meticulously curated to empower you in kickstarting your exploration, allowing you to prototype solutions and building fun projects.
 

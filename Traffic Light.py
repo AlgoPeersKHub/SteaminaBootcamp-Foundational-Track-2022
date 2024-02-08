@@ -1,4 +1,4 @@
-## Introduction
+"""## Introduction
 
 Experience the world of traffic lights by creating your own simulation  using LEDs connected to specific pins on the micro:bit!
 
@@ -27,9 +27,9 @@ Please note that the timer for light changes in this simulation does not adhere 
      ##[Microsoft MakeCode Editor](https://makecode.microbit.org/#editor)
 
 
-## Feel free to comment or contribute
+## Feel free to comment or contribute"""
 
-"""
+
 
 
 # Project Code / Program ...

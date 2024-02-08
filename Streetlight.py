@@ -1,4 +1,4 @@
-## Introduction
+"""## Introduction
 
 Explore the world of streetlights with this micro:bit project! Utilize pins, LEDs, external LEDs and a light sensor to simulate a streetlight. 
 
@@ -24,9 +24,8 @@ The programming concepts involved include functions, loops, and conditional stat
 
 ## Coding Environment / Text Editor
 
-   # [Microsoft MakeCode Editor](https://makecode.microbit.org/#editor)
+   # [Microsoft MakeCode Editor](https://makecode.microbit.org/#editor)"""
 
-"""
 
 
 # Project Code / Program ...

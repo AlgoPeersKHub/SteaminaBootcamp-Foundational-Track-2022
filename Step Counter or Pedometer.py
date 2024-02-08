@@ -1,4 +1,4 @@
-
+"""
 ## Introduction
 
 Curious about how many steps you take? This project turns your micro:bit into a pedometer, counting your steps as you move. 

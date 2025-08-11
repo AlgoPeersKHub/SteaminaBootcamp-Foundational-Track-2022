@@ -37,14 +37,26 @@ In this project, you'll learn how to write a program to display your feelings on
 # Project Code / Program ...
 
 def on_button_pressed_a():
-    basic.show_leds("""
-        . # . # .
-        # # # # #
-        # # # # #
-        . # # # .
-        . . # . .
-        """)
+    basic.show_icon(IconNames.HEART) #feeling loved
 input.on_button_pressed(Button.A, on_button_pressed_a)
 
+def on_button_pressed_ab():
+    basic.show_icon(IconNames.ASLEEP) #feeling sleepy
+input.on_button_pressed(Button.AB, on_button_pressed_ab)
 
+def on_button_pressed_b():
+    basic.show_icon(IconNames.HAPPY) #feeling happy
+input.on_button_pressed(Button.B, on_button_pressed_b)
+
+def on_pin_pressed_p1():
+    basic.show_icon(IconNames.FABULOUS) #feeling fabulous
+input.on_pin_pressed(TouchPin.P1, on_pin_pressed_p1)
+
+def on_gesture_shake():
+    basic.show_icon(IconNames.SURPRISED)#feeling surprised
+input.on_gesture(Gesture.SHAKE, on_gesture_shake)
+
+def on_pin_pressed_p0():
+    basic.show_icon(IconNames.SAD) #feeling sad
+input.on_pin_pressed(TouchPin.P0, on_pin_pressed_p0)
 

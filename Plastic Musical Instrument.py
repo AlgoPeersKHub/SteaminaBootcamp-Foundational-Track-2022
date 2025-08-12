@@ -7,7 +7,7 @@ In this project, you'll turn recyclable plstic bottle into a symphony of sounds 
 1. **Pins:** Connected to plastic bottles to create a musical instrument.
 2. **LEDs (Light Emitting Diode):** Displays icons corresponding to different musical tones.
 
-## Programming Concepts
+## Programming Concept
 Functions: Reusable blocks of code that perform specific tasks.
 
 ##Feel free to comment, contribute, or use the code for your project.

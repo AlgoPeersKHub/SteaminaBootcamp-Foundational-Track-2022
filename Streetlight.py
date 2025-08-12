@@ -11,7 +11,6 @@ The programming concepts involved include functions, loops, and conditional stat
 ## Programming Language: Python
 
 ## Programming Concepts
-
 - Function: A reusable block of code that performs a specific task. Functions will be used to control the streetlight states.
 - Loops: Repeatedly execute a block of code.
 - Conditional Statements: Make decisions in the code based on certain conditions.

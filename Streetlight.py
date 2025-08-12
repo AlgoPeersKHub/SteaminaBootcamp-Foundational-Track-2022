@@ -22,7 +22,7 @@ The programming concepts involved include functions, loops, and conditional stat
 
 # Project Code / Program ...
 def on_forever():  # Define a function called on_forever
-   if input.light_level() < 10:  # Check the light level
+   if input.light_level() < 50:  # Monitor the light level # Adjust the threshold value as needed 
       basic.show_leds("""
             # # # # #
             # # # # #

@@ -19,6 +19,9 @@ The programming concepts involved include functions, loops, and conditional stat
 ## Coding Environment / Text Editor
 # [Microsoft MakeCode Editor](https://makecode.microbit.org/#editor)"""
 
+##Feel free to comment, contribute, or use the code for your project.
+#You can use the same pins or change them—just be sure to update the code accordingly so your project works correctly."""
+
 
 # Project Code / Program ...
 def on_forever():  # Define a function called on_forever

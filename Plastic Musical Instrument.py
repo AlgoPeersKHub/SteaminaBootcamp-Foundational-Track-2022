@@ -10,8 +10,9 @@ In this project, you'll turn recyclable plstic bottle into a symphony of sounds 
 ## Programming Concepts
 Functions: Reusable blocks of code that perform specific tasks.
 
-##Feel free to comment or contribute.
-"""
+##Feel free to comment, contribute, or use the code for your project.
+#You can use the same pins or change them—just be sure to update the code accordingly so your project works correctly."""
+
 
 ## Project code / program
 def on_pin_pressed_p0():  # Define a function to play a musical tune and show an icon when TouchPin.P0 is pressed

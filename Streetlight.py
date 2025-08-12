@@ -21,7 +21,6 @@ The programming concepts involved include functions, loops, and conditional stat
 ##Feel free to comment, contribute, or use the code for your project.
 #You can use the same pins or change them—just be sure to update the code accordingly so your project works correctly."""
 
-
 # Project Code / Program ...
 def on_forever():  # Define a function called on_forever
    if input.light_level() < 50:  # Monitor the light level # Adjust the threshold value as needed 

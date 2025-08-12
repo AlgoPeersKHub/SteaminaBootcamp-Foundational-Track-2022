@@ -1,6 +1,5 @@
-## This code is full of bugs. Your JOB IS TO IDENTIFY THE BUGD AND FIX IT TEM
-
-
+## The provided energy-efficient streetlight program contains errors. 
+## Your task is to identify, analyze, and correct these bugs to ensure the energy-efficient streetlight operates as intended
 
 
 def on_forever():

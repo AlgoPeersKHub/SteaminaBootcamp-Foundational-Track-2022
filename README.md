@@ -1,7 +1,8 @@
 # Foundational-Track
-The Foundational Track is a comprehensive compilation of resources, featuring code snippets tailored to facilitate your **introduction to the micro:bit.** (A micro:bit is a  programmable computer designed to provide an engaging and enjoyable way to learn coding,build prototypes as well as grasp the fundamentals of hardware and software.)
+This repository contains code developed by learners aged 7–15 as part of hands-on explorations into emerging technologies such as AI, machine learning, physical computing, and coding. Learners used the BBC micro:bit, programmed with Microsoft MakeCode, and locally available materials to build prototypes addressing Sustainable Development Goals (SDGs), including climate action, clean energy, and quality education.
+The projects promote learning through making and collaboration in meaningful contexts. Instruction was guided by Culturally Relevant Pedagogy (Ladson-Billings, 1995) and Universal Design for Learning (CAST, 2018), ensuring inclusive, identity-affirming experiences. 
+Learners expressed ideas through code, storytelling, sketches, and physical builds, reflecting our commitment to equitable, high-impact STEAM education in low-resource settings.
 
-These resources are meticulously curated to empower you in kickstarting your exploration, allowing you to prototype solutions and build fun projects.
 
 **You'll delve into the micro:bit and how to code through interesting projects.**
 ![Serwaa 4](https://github.com/AlgoPeersKHub/Foundational-Track/assets/150908294/b117336a-dcd7-4e87-a577-861d8c1202c3)
